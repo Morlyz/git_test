@@ -1,2 +1,2 @@
-# git_test
-my new repo
+Hi olu!
+I'm morlyz
